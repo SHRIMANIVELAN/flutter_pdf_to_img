@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		ADDED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml:1:70-92
+		INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shrimani.velan/.pub-cache/hosted/pub.dev/pdfx-1.0.1+1/android/src/main/AndroidManifest.xml
